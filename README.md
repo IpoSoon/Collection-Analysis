@@ -3,6 +3,7 @@
 ### 1. Introduction to Dataset
 
 ### 2. Data Dictionary
+![image](https://user-images.githubusercontent.com/101726623/235452129-fab917bf-16dc-4a9f-a617-8ddf1f10eac8.png)
 
 ### 3. Business Questions
 
