@@ -24,7 +24,7 @@
 ### Step 4 - Prototype
 ![image](https://user-images.githubusercontent.com/101726623/235462548-052c3852-94f9-4dfe-8dc8-e75370c66fba.png)
 
-### Step 5 - Step 5 - Review
+### Step 5 - Review
 ![image](https://user-images.githubusercontent.com/101726623/235462504-50d42980-df64-45f9-9293-8dee0605f9a1.png)
 
 ## III. Visualization
