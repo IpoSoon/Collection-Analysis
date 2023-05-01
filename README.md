@@ -1,9 +1,8 @@
 # [POWER BI] Collection Analysis
 ## I. Introduction
+### 1. Introduction to Dataset
 * Dataset: **OS Collection Performance**
 * The dataset includes one table containing information on debt collection by partners, organized by month for the years 2020 and 2021.
-### 1. Introduction to Dataset
-
 ### 2. Data Dictionary
 ![image](https://user-images.githubusercontent.com/101726623/235452129-fab917bf-16dc-4a9f-a617-8ddf1f10eac8.png)
 
