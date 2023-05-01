@@ -7,7 +7,9 @@
 ![image](https://user-images.githubusercontent.com/101726623/235452129-fab917bf-16dc-4a9f-a617-8ddf1f10eac8.png)
 
 ### 3. Business Questions
-
+* Which partners are the most efficient at debt recovery, and what factors contribute to their success?
+* How can the Head of Collection at Bank X optimize the allocation of the debt portfolio to maximize profits and minimize risk?
+* What strategies can the Head of Collection at Bank X implement to improve debt recovery rates and enhance cooperation with its partners?
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
 ### Step 1 - Empathize
