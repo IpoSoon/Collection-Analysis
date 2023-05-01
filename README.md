@@ -41,8 +41,8 @@
 
 ## IV. Insights
 1, In terms of total collection
-* ASA, HMK, GLX, NDC, TCG are the top companies with a lot of debt
-* BFC, FBI, TDO companies collect the least amount of debt
+* ASA, HMK, GLX, NDC, TCG are the top companies with a lot of debt.
+* BFC, FBI, TDO companies collect the least amount of debt.
 
 2, In terms of Range_DPD
 * Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
@@ -57,9 +57,9 @@
 
 5, Short-term is the easiest loan to claim (the highest recovery rate).
 
-6, In contrast, Long-term has the lowest return rate
+6, In contrast, Long-term has the lowest return rate.
 
-7, Deadloan has the highest loan ratio: unsecured Loan, Secured Loan, Credit Card
+7, Deadloan has the highest loan ratio: unsecured Loan, Secured Loan, Credit Card.
 
 ## V. Recommendations
 
@@ -77,10 +77,10 @@ Debt allocation by loan term to OS_company Long-term: TDO Mid-term: FBI, NDC
 
 3, It is necessary to consider whether the following companies should cooperate in the future because of the inefficient debt collection index: DK, HNA, BFC.
 
-4, NDC is a company that handles debts well: like Deadloan vs other of Product_final
+4, NDC is a company that handles debts well: like Deadloan vs other of Product_final.
 
-5, Deadloan accounts have a high payout ratio in the last months of the year 10, 11, 12
+5, Deadloan accounts have a high payout ratio in the last months of the year 10, 11, 12.
 
-6, December is the month with the highest repayment rate of the year, then it drops to the lowest in February
+6, December is the month with the highest repayment rate of the year, then it drops to the lowest in February.
 
-7, The bank should expand and promote the Mid-term loan package because it has the highest recovery rate
+7, The bank should expand and promote the Mid-term loan package because it has the highest recovery rate.
