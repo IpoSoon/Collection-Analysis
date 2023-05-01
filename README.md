@@ -28,16 +28,12 @@
 ![image](https://user-images.githubusercontent.com/101726623/235462504-50d42980-df64-45f9-9293-8dee0605f9a1.png)
 
 ## III. Visualization
-### 1. 
+### 1. Overview
 
-### 2.
-
-
-### 3. 
+### 2. Debt Profile
 
 
-### 4. 
-
+### 3. (Insights) Effective debt recovery
 
 ## IV. Insights
 1, In terms of total collection
