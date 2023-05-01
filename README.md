@@ -16,16 +16,16 @@
 ![image](https://user-images.githubusercontent.com/101726623/235462077-d271622f-a971-4e86-9755-471046f4b6bc.png)
 
 ### Step 2 - Define
-![image](https://user-images.githubusercontent.com/101726623/235462214-1150c61a-b852-4d1c-af29-37277ac7bde8.png)
-
+![image](https://user-images.githubusercontent.com/101726623/235462332-7759bd09-ee66-4913-9c8e-d15624b7b461.png)
 
 ### Step 3 - Ideate
-
+![image](https://user-images.githubusercontent.com/101726623/235462390-75792f27-29c6-4254-927b-1dee721a1818.png)
 
 ### Step 4 - Prototype
+![image](https://user-images.githubusercontent.com/101726623/235462548-052c3852-94f9-4dfe-8dc8-e75370c66fba.png)
 
 ### Step 5 - Step 5 - Review
-
+![image](https://user-images.githubusercontent.com/101726623/235462504-50d42980-df64-45f9-9293-8dee0605f9a1.png)
 
 ## III. Visualization
 ### 1. 
