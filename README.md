@@ -43,18 +43,26 @@
 1, In terms of total collection
 * ASA, HMK, GLX, NDC, TCG are the top companies with a lot of debt
 * BFC, FBI, TDO companies collect the least amount of debt
+
 2, In terms of Range_DPD
 * Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
 * Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
 * Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
 * Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
+
 3, In terms of Recovery rate
 * The top companies with high revocery rates are: AMG>FBI>DK>HMK ., respectively.
+
 4, Customers have a high demand for mid-term loans 37.79%, then short-term: 28.49%, long-term: 20.82%.
+
 5, Short-term is the easiest loan to claim (the highest recovery rate).
+
 6, In contrast, Long-term has the lowest return rate
+
 7, Deadloan has the highest loan ratio: unsecured Loan, Secured Loan, Credit Card
+
 ## V. Recommendations
+
 1, If you want to collect a lot of debt (total collected):
 Debt allocation according to loan term to OS_company
 * Long-term: ASA, HMK, NDC
