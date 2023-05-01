@@ -32,9 +32,10 @@
 ![image](https://user-images.githubusercontent.com/101726623/235464138-e572d91d-5ee7-4a76-bf5b-3e8639634920.png)
 
 ### 2. Debt Profile
-
+![image](https://user-images.githubusercontent.com/101726623/235464239-5d32608f-7288-4703-b785-4c087e46d22a.png)
 
 ### 3. (Insights) Effective debt recovery
+![image](https://user-images.githubusercontent.com/101726623/235464301-a9c14a21-8c8d-485b-815b-b8248cae828c.png)
 
 ## IV. Insights
 1, In terms of total collection
