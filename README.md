@@ -13,9 +13,10 @@
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
 ### Step 1 - Empathize
-
+![image](https://user-images.githubusercontent.com/101726623/235462077-d271622f-a971-4e86-9755-471046f4b6bc.png)
 
 ### Step 2 - Define
+![image](https://user-images.githubusercontent.com/101726623/235462214-1150c61a-b852-4d1c-af29-37277ac7bde8.png)
 
 
 ### Step 3 - Ideate
